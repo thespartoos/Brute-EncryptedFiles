@@ -8,8 +8,8 @@ Python tool to bruteforce file encrypted with a cipherlist and a wordlist
 
 ### Usage
 
-![[images/menu.PNG]]
+![images/menu.PNG]
 
 ### Decrypt
 
-![[images/crack.PNG]]
+![images/crack.PNG]
